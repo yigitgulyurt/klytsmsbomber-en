@@ -1,5 +1,5 @@
 # KLYT SMS BOMBER
-[![Hits](https://hits.sh/github.com/yiit06/klytsmsbomber.svg?label=viewer&color=ff0000&labelColor=000000)](https://hits.sh/github.com/yiit06/klytsmsbomber/)
+[![Hits](https://hits.sh/github.com/yiit06/klytsmsbomber-en.svg?label=viewer&color=ff0000&labelColor=000000)](https://hits.sh/github.com/yiit06/klytsmsbomber/)
 
 [Türkçe](https://github.com/yiit06/klytsmsbomber?tab=readme-ov-file#kurulum) Kurulum.
 
