@@ -42,12 +42,21 @@ python3 klyt-computer.py
 python3 klyt-phone.py
 ```
 
+ㅤㅤㅤㅤㅤ
 
-<h2></h2>
-<h2></h2>
-<h2></h2>
+ㅤㅤㅤㅤㅤ
+
+ㅤㅤㅤㅤㅤ
 
 
+ㅤㅤㅤㅤㅤ
+
+ㅤㅤㅤㅤㅤ
+
+ㅤㅤㅤㅤㅤ
+
+
+ 
 <h2>Kurulum</h2>
 1.adım/
  
