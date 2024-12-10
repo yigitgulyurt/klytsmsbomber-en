@@ -8,11 +8,9 @@
 <img src=https://i.imgur.com/QauqvhI.png height="200px" width="400px"/>
 <img src=https://i.imgur.com/S0GouMf.png height="200px" width="400px"/>
 
+[!DISCLAIMER]
 
-<h3>FOR EDUCATIONAL PURPOSES</h3>
-<h3>FOR FUN</h3>
-
-
+This content is only for educational purpose. Use of any hacking tool without explicit authorization is illegal. Always ensure legal and ethical use of security testing tools. We are not responsible for any kind of misuse.
 
 <h2>Installation</h2>
 1.step
